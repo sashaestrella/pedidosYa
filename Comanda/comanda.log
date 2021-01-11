@@ -1,0 +1,812 @@
+[INFO] 01:41:10:805 ComandaLog/(21540:21681): Se conectó la APP
+[INFO] 01:45:35:565 ComandaLog/(21946:21951): Se conectó la APP
+[INFO] 01:45:56:97 ComandaLog/(21946:21967): Se conectó la APP
+[INFO] 01:52:40:398 ComandaLog/(22193:22209): Se conectó la APP
+[INFO] 17:24:56:409 ComandaLog/(4076:4249): Se conectó la APP
+[INFO] 17:43:01:362 ComandaLog/(6185:6189): Se conectó la APP
+[INFO] 17:44:56:247 ComandaLog/(6185:6350): La tabla de segmentos del restaurante -MilangaPalace- no existe,procedo a crearla
+[DEBUG] 17:44:56:247 ComandaLog/(6185:6350): Se creó la tabla de segmentos del restaurante -MilangaPalace-
+[DEBUG] 17:44:56:247 ComandaLog/(6185:6350): Se agregó el pedido 1 del restaurante MilangaPalace correctamente
+[INFO] 17:51:03:536 ComandaLog/(6555:6559): Se conectó la APP
+[INFO] 18:04:56:678 ComandaLog/(6555:7516): La tabla de segmentos del restaurante -MilangaPalace- no existe,procedo a crearla
+[DEBUG] 18:04:56:678 ComandaLog/(6555:7516): Se creó la tabla de segmentos del restaurante -MilangaPalace-
+[DEBUG] 18:04:56:679 ComandaLog/(6555:7516): Se agregó el pedido 1 del restaurante MilangaPalace correctamente
+[INFO] 18:05:03:169 ComandaLog/(6555:7518): La página MilaCompleta del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 18:05:03:169 ComandaLog/(6555:7518): El marco a asignar en SWAP es el: 0
+[INFO] 18:05:03:214 ComandaLog/(6555:7518): Se inserto en SWAP el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[INFO] 18:05:03:226 ComandaLog/(6555:7518): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 18:05:03:226 ComandaLog/(6555:7518): El marco a asignar en memoria es el: 0
+[DEBUG] 18:05:03:226 ComandaLog/(6555:7518): Se insertó en memoria el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[INFO] 18:05:03:226 ComandaLog/(6555:7518): Se añadió el plato MilaCompleta en la tabla de páginas del pedido 1, restaurante: MilangaPalace
+[INFO] 18:05:17:639 ComandaLog/(6555:7521): La tabla de segmentos del restaurante -GreenLife- no existe,procedo a crearla
+[DEBUG] 18:05:17:639 ComandaLog/(6555:7521): Se creó la tabla de segmentos del restaurante -GreenLife-
+[DEBUG] 18:05:17:639 ComandaLog/(6555:7521): Se agregó el pedido 1 del restaurante GreenLife correctamente
+[INFO] 18:05:21:805 ComandaLog/(6555:7523): La página WokDeVegetales del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 18:05:21:808 ComandaLog/(6555:7523): El marco a asignar en SWAP es el: 1
+[INFO] 18:05:21:808 ComandaLog/(6555:7523): Se inserto en SWAP el plato: WokDeVegetales en el frame: 1, donde comienza en: 32
+[INFO] 18:05:21:812 ComandaLog/(6555:7523): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 18:05:21:812 ComandaLog/(6555:7523): El marco a asignar en memoria es el: 1
+[DEBUG] 18:05:21:812 ComandaLog/(6555:7523): Se insertó en memoria el plato: WokDeVegetales en el frame: 1, donde comienza en: 32
+[INFO] 18:05:21:812 ComandaLog/(6555:7523): Se añadió el plato WokDeVegetales en la tabla de páginas del pedido 1, restaurante: GreenLife
+[INFO] 18:05:25:755 ComandaLog/(6555:7525): La página TortillaDePapa del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 18:05:25:755 ComandaLog/(6555:7525): El marco a asignar en SWAP es el: 2
+[INFO] 18:05:25:756 ComandaLog/(6555:7525): Se inserto en SWAP el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[INFO] 18:05:25:759 ComandaLog/(6555:7525): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 18:05:25:759 ComandaLog/(6555:7525): El marco a asignar en memoria es el: 2
+[DEBUG] 18:05:25:759 ComandaLog/(6555:7525): Se insertó en memoria el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[INFO] 18:05:25:759 ComandaLog/(6555:7525): Se añadió el plato TortillaDePapa en la tabla de páginas del pedido 1, restaurante: GreenLife
+[INFO] 18:05:30:786 ComandaLog/(6555:7527): Se actualizó la cantidad total a 2 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[INFO] 18:05:44:282 ComandaLog/(6555:7530): La tabla de segmentos del restaurante -LaParri- no existe,procedo a crearla
+[DEBUG] 18:05:44:282 ComandaLog/(6555:7530): Se creó la tabla de segmentos del restaurante -LaParri-
+[DEBUG] 18:05:44:283 ComandaLog/(6555:7530): Se agregó el pedido 1 del restaurante LaParri correctamente
+[INFO] 18:05:49:88 ComandaLog/(6555:7533): La página AsadoJugoso del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 18:05:49:90 ComandaLog/(6555:7533): El marco a asignar en SWAP es el: 3
+[INFO] 18:05:49:97 ComandaLog/(6555:7533): Se inserto en SWAP el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[INFO] 18:05:49:132 ComandaLog/(6555:7533): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 18:05:49:133 ComandaLog/(6555:7533): El marco a asignar en memoria es el: 3
+[DEBUG] 18:05:49:133 ComandaLog/(6555:7533): Se insertó en memoria el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[INFO] 18:05:49:133 ComandaLog/(6555:7533): Se añadió el plato AsadoJugoso en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 18:05:53:676 ComandaLog/(6555:7535): La página AsadoSeco del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 18:05:53:676 ComandaLog/(6555:7535): El marco a asignar en SWAP es el: 4
+[INFO] 18:05:53:676 ComandaLog/(6555:7535): Se inserto en SWAP el plato: AsadoSeco en el frame: 4, donde comienza en: 128
+[INFO] 18:05:53:679 ComandaLog/(6555:7535): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 18:05:53:680 ComandaLog/(6555:7535): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:05:53:680 ComandaLog/(6555:7535): Se eliminará una página por LRU
+[DEBUG] 18:05:53:680 ComandaLog/(6555:7535): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 18:05:53:680 ComandaLog/(6555:7535): El marco a asignar en memoria es el: 0
+[DEBUG] 18:05:53:680 ComandaLog/(6555:7535): Se insertó en memoria el plato: AsadoSeco en el frame: 0, donde comienza en: 0
+[INFO] 18:05:53:680 ComandaLog/(6555:7535): Se añadió el plato AsadoSeco en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 18:05:59:113 ComandaLog/(6555:7537): La página Choripan del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 18:05:59:114 ComandaLog/(6555:7537): El marco a asignar en SWAP es el: 5
+[INFO] 18:05:59:117 ComandaLog/(6555:7537): Se inserto en SWAP el plato: Choripan en el frame: 5, donde comienza en: 160
+[INFO] 18:05:59:120 ComandaLog/(6555:7537): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 18:05:59:120 ComandaLog/(6555:7537): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:05:59:120 ComandaLog/(6555:7537): Se eliminará una página por LRU
+[DEBUG] 18:05:59:120 ComandaLog/(6555:7537): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 18:05:59:120 ComandaLog/(6555:7537): El marco a asignar en memoria es el: 1
+[DEBUG] 18:05:59:120 ComandaLog/(6555:7537): Se insertó en memoria el plato: Choripan en el frame: 1, donde comienza en: 32
+[INFO] 18:05:59:120 ComandaLog/(6555:7537): Se añadió el plato Choripan en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 18:06:02:797 ComandaLog/(6555:7539): Se actualizó la cantidad total a 2 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 18:06:05:627 ComandaLog/(6555:7541): Se actualizó la cantidad total a 3 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 18:06:08:235 ComandaLog/(6555:7543): Se actualizó la cantidad total a 4 de la página Choripan del pedido 1, restaurante: LaParri
+[WARNING] 18:06:13:225 ComandaLog/(6555:7547): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:13:226 ComandaLog/(6555:7547): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:13:226 ComandaLog/(6555:7547): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:13:226 ComandaLog/(6555:7547): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[DEBUG] 18:06:19:269 ComandaLog/(6555:7556): Se cambió el estado del pedido 1 a CONFIRMADO
+[INFO] 18:06:19:270 ComandaLog/(6555:7557): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:19:270 ComandaLog/(6555:7557): Se eliminará una página por LRU
+[DEBUG] 18:06:19:270 ComandaLog/(6555:7557): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 18:06:19:270 ComandaLog/(6555:7557): Se procede a leer en SWAP la página en el frame 2
+[INFO] 18:06:19:309 ComandaLog/(6555:7557): [msync]Se guardaron los cambios de la página TortillaDePapa en SWAP exitosamente
+[INFO] 18:06:19:309 ComandaLog/(6555:7557): El marco a asignar en memoria es el: 2
+[DEBUG] 18:06:19:309 ComandaLog/(6555:7557): Se insertó en memoria el plato: WokDeVegetales en el frame: 2, donde comienza en: 64
+[INFO] 18:06:19:309 ComandaLog/(6555:7557): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:19:310 ComandaLog/(6555:7557): Se eliminará una página por LRU
+[DEBUG] 18:06:19:310 ComandaLog/(6555:7557): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 18:06:19:310 ComandaLog/(6555:7557): El marco a asignar en memoria es el: 3
+[DEBUG] 18:06:19:310 ComandaLog/(6555:7557): Se insertó en memoria el plato: TortillaDePapa en el frame: 3, donde comienza en: 96
+[DEBUG] 18:06:19:310 ComandaLog/(6555:7557): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[DEBUG] 18:06:22:335 ComandaLog/(6555:7563): Se cambió el estado del pedido 1 a CONFIRMADO
+[INFO] 18:06:22:335 ComandaLog/(6555:7564): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:22:336 ComandaLog/(6555:7564): Se eliminará una página por LRU
+[DEBUG] 18:06:22:336 ComandaLog/(6555:7564): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 18:06:22:336 ComandaLog/(6555:7564): El marco a asignar en memoria es el: 0
+[DEBUG] 18:06:22:336 ComandaLog/(6555:7564): Se insertó en memoria el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[DEBUG] 18:06:22:336 ComandaLog/(6555:7564): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[DEBUG] 18:06:23:357 ComandaLog/(6555:7568): Se cambió el estado del pedido 1 a CONFIRMADO
+[INFO] 18:06:26:57 ComandaLog/(6555:7569): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:26:57 ComandaLog/(6555:7569): Se eliminará una página por LRU
+[DEBUG] 18:06:26:58 ComandaLog/(6555:7569): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 18:06:26:58 ComandaLog/(6555:7569): Se procede a leer en SWAP la página en el frame 5
+[INFO] 18:06:26:65 ComandaLog/(6555:7569): [msync]Se guardaron los cambios de la página Choripan en SWAP exitosamente
+[INFO] 18:06:26:66 ComandaLog/(6555:7569): El marco a asignar en memoria es el: 1
+[DEBUG] 18:06:26:67 ComandaLog/(6555:7569): Se insertó en memoria el plato: AsadoJugoso en el frame: 1, donde comienza en: 32
+[INFO] 18:06:26:67 ComandaLog/(6555:7569): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:26:67 ComandaLog/(6555:7569): Se eliminará una página por LRU
+[DEBUG] 18:06:26:67 ComandaLog/(6555:7569): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 18:06:26:67 ComandaLog/(6555:7569): El marco a asignar en memoria es el: 2
+[DEBUG] 18:06:26:67 ComandaLog/(6555:7569): Se insertó en memoria el plato: AsadoSeco en el frame: 2, donde comienza en: 64
+[INFO] 18:06:26:67 ComandaLog/(6555:7569): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:26:67 ComandaLog/(6555:7569): Se eliminará una página por LRU
+[DEBUG] 18:06:26:67 ComandaLog/(6555:7569): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 18:06:26:67 ComandaLog/(6555:7569): El marco a asignar en memoria es el: 3
+[DEBUG] 18:06:26:67 ComandaLog/(6555:7569): Se insertó en memoria el plato: Choripan en el frame: 3, donde comienza en: 96
+[DEBUG] 18:06:26:67 ComandaLog/(6555:7569): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 18:06:30:585 ComandaLog/(6555:7571): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:30:585 ComandaLog/(6555:7571): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:30:585 ComandaLog/(6555:7571): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:30:585 ComandaLog/(6555:7571): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 18:06:30:586 ComandaLog/(6555:7571): Se actualizó la cantidad lista a 1 de la página AsadoJugoso del pedido 1, restaurante: LaParri
+[WARNING] 18:06:30:588 ComandaLog/(6555:7572): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:30:588 ComandaLog/(6555:7572): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:30:588 ComandaLog/(6555:7572): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:30:588 ComandaLog/(6555:7572): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 18:06:31:61 ComandaLog/(6555:7573): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:31:61 ComandaLog/(6555:7573): Se eliminará una página por LRU
+[DEBUG] 18:06:31:62 ComandaLog/(6555:7573): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 18:06:31:62 ComandaLog/(6555:7573): El marco a asignar en memoria es el: 0
+[DEBUG] 18:06:31:62 ComandaLog/(6555:7573): Se insertó en memoria el plato: WokDeVegetales en el frame: 0, donde comienza en: 0
+[INFO] 18:06:31:62 ComandaLog/(6555:7573): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:31:62 ComandaLog/(6555:7573): Se eliminará una página por LRU
+[DEBUG] 18:06:31:63 ComandaLog/(6555:7573): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 18:06:31:63 ComandaLog/(6555:7573): El marco a asignar en memoria es el: 2
+[DEBUG] 18:06:31:63 ComandaLog/(6555:7573): Se insertó en memoria el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[DEBUG] 18:06:31:63 ComandaLog/(6555:7573): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 18:06:39:601 ComandaLog/(6555:7575): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:39:602 ComandaLog/(6555:7575): Se eliminará una página por LRU
+[DEBUG] 18:06:39:602 ComandaLog/(6555:7575): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 18:06:39:602 ComandaLog/(6555:7575): El marco a asignar en memoria es el: 3
+[DEBUG] 18:06:39:602 ComandaLog/(6555:7575): Se insertó en memoria el plato: MilaCompleta en el frame: 3, donde comienza en: 96
+[DEBUG] 18:06:39:602 ComandaLog/(6555:7575): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[INFO] 18:06:39:605 ComandaLog/(6555:7575): Se actualizó la cantidad lista a 1 de la página MilaCompleta del pedido 1, restaurante: MilangaPalace
+[TRACE] 18:06:39:608 ComandaLog/(6555:7575): Se actualizo el estado del pedido 1 a TERMINADO
+[WARNING] 18:06:39:609 ComandaLog/(6555:7576): La página MilaCompleta del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:39:609 ComandaLog/(6555:7576): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[WARNING] 18:06:48:222 ComandaLog/(6555:7579): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:48:222 ComandaLog/(6555:7579): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:48:222 ComandaLog/(6555:7579): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 18:06:48:222 ComandaLog/(6555:7579): Se actualizó la cantidad lista a 1 de la página WokDeVegetales del pedido 1, restaurante: GreenLife
+[WARNING] 18:06:48:225 ComandaLog/(6555:7580): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:48:226 ComandaLog/(6555:7580): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:48:226 ComandaLog/(6555:7580): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 18:06:50:594 ComandaLog/(6555:7582): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 18:06:50:594 ComandaLog/(6555:7582): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:50:594 ComandaLog/(6555:7582): Se eliminará una página por LRU
+[DEBUG] 18:06:50:595 ComandaLog/(6555:7582): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 18:06:50:595 ComandaLog/(6555:7582): Se procede a leer en SWAP la página en el frame 3
+[INFO] 18:06:50:602 ComandaLog/(6555:7582): [msync]Se guardaron los cambios de la página AsadoJugoso en SWAP exitosamente
+[INFO] 18:06:50:606 ComandaLog/(6555:7582): El marco a asignar en memoria es el: 1
+[DEBUG] 18:06:50:606 ComandaLog/(6555:7582): Se insertó en memoria el plato: AsadoSeco en el frame: 1, donde comienza en: 32
+[INFO] 18:06:50:606 ComandaLog/(6555:7582): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:50:606 ComandaLog/(6555:7582): Se eliminará una página por LRU
+[DEBUG] 18:06:50:606 ComandaLog/(6555:7582): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 18:06:50:606 ComandaLog/(6555:7582): El marco a asignar en memoria es el: 2
+[DEBUG] 18:06:50:606 ComandaLog/(6555:7582): Se insertó en memoria el plato: Choripan en el frame: 2, donde comienza en: 64
+[DEBUG] 18:06:50:606 ComandaLog/(6555:7582): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 18:06:50:606 ComandaLog/(6555:7582): Se actualizó la cantidad lista a 1 de la página AsadoSeco del pedido 1, restaurante: LaParri
+[INFO] 18:06:50:615 ComandaLog/(6555:7583): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:50:616 ComandaLog/(6555:7583): Se eliminará una página por LRU
+[DEBUG] 18:06:50:616 ComandaLog/(6555:7583): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 18:06:50:616 ComandaLog/(6555:7583): Se procede a leer en SWAP la página en el frame 0
+[INFO] 18:06:50:619 ComandaLog/(6555:7583): [msync]Se guardaron los cambios de la página MilaCompleta en SWAP exitosamente
+[INFO] 18:06:50:619 ComandaLog/(6555:7583): El marco a asignar en memoria es el: 3
+[DEBUG] 18:06:50:619 ComandaLog/(6555:7583): Se insertó en memoria el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[WARNING] 18:06:50:619 ComandaLog/(6555:7583): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:50:619 ComandaLog/(6555:7583): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:50:619 ComandaLog/(6555:7583): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 18:06:53:600 ComandaLog/(6555:7585): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:53:600 ComandaLog/(6555:7585): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:53:600 ComandaLog/(6555:7585): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:53:600 ComandaLog/(6555:7585): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 18:06:53:600 ComandaLog/(6555:7585): Se actualizó la cantidad lista a 1 de la página Choripan del pedido 1, restaurante: LaParri
+[WARNING] 18:06:53:610 ComandaLog/(6555:7586): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:53:610 ComandaLog/(6555:7586): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:53:610 ComandaLog/(6555:7586): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:53:610 ComandaLog/(6555:7586): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 18:06:56:602 ComandaLog/(6555:7588): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:56:602 ComandaLog/(6555:7588): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:56:602 ComandaLog/(6555:7588): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:56:602 ComandaLog/(6555:7588): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 18:06:56:602 ComandaLog/(6555:7588): Se actualizó la cantidad lista a 2 de la página Choripan del pedido 1, restaurante: LaParri
+[WARNING] 18:06:56:604 ComandaLog/(6555:7589): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:56:605 ComandaLog/(6555:7589): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:06:56:605 ComandaLog/(6555:7589): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:56:605 ComandaLog/(6555:7589): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 18:06:58:230 ComandaLog/(6555:7591): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[INFO] 18:06:58:230 ComandaLog/(6555:7591): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:58:230 ComandaLog/(6555:7591): Se eliminará una página por LRU
+[DEBUG] 18:06:58:230 ComandaLog/(6555:7591): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 18:06:58:230 ComandaLog/(6555:7591): Se procede a leer en SWAP la página en el frame 1
+[INFO] 18:06:58:234 ComandaLog/(6555:7591): [msync]Se guardaron los cambios de la página WokDeVegetales en SWAP exitosamente
+[INFO] 18:06:58:234 ComandaLog/(6555:7591): El marco a asignar en memoria es el: 0
+[DEBUG] 18:06:58:234 ComandaLog/(6555:7591): Se insertó en memoria el plato: TortillaDePapa en el frame: 0, donde comienza en: 0
+[DEBUG] 18:06:58:234 ComandaLog/(6555:7591): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 18:06:58:234 ComandaLog/(6555:7591): Se actualizó la cantidad lista a 1 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[INFO] 18:06:58:245 ComandaLog/(6555:7592): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:06:58:245 ComandaLog/(6555:7592): Se eliminará una página por LRU
+[DEBUG] 18:06:58:246 ComandaLog/(6555:7592): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 18:06:58:246 ComandaLog/(6555:7592): Se procede a leer en SWAP la página en el frame 4
+[INFO] 18:06:58:247 ComandaLog/(6555:7592): [msync]Se guardaron los cambios de la página AsadoSeco en SWAP exitosamente
+[INFO] 18:06:58:249 ComandaLog/(6555:7592): El marco a asignar en memoria es el: 1
+[DEBUG] 18:06:58:249 ComandaLog/(6555:7592): Se insertó en memoria el plato: WokDeVegetales en el frame: 1, donde comienza en: 32
+[WARNING] 18:06:58:249 ComandaLog/(6555:7592): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:06:58:249 ComandaLog/(6555:7592): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 18:07:01:602 ComandaLog/(6555:7594): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 18:07:01:602 ComandaLog/(6555:7594): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:07:01:602 ComandaLog/(6555:7594): Se eliminará una página por LRU
+[DEBUG] 18:07:01:602 ComandaLog/(6555:7594): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 18:07:01:603 ComandaLog/(6555:7594): El marco a asignar en memoria es el: 3
+[DEBUG] 18:07:01:603 ComandaLog/(6555:7594): Se insertó en memoria el plato: AsadoSeco en el frame: 3, donde comienza en: 96
+[WARNING] 18:07:01:603 ComandaLog/(6555:7594): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:07:01:603 ComandaLog/(6555:7594): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 18:07:01:603 ComandaLog/(6555:7594): Se actualizó la cantidad lista a 3 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 18:07:01:606 ComandaLog/(6555:7595): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:07:01:607 ComandaLog/(6555:7595): Se eliminará una página por LRU
+[DEBUG] 18:07:01:607 ComandaLog/(6555:7595): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 18:07:01:608 ComandaLog/(6555:7595): Se procede a leer en SWAP la página en el frame 2
+[INFO] 18:07:01:609 ComandaLog/(6555:7595): [msync]Se guardaron los cambios de la página TortillaDePapa en SWAP exitosamente
+[INFO] 18:07:01:612 ComandaLog/(6555:7595): El marco a asignar en memoria es el: 0
+[DEBUG] 18:07:01:613 ComandaLog/(6555:7595): Se insertó en memoria el plato: AsadoJugoso en el frame: 0, donde comienza en: 0
+[WARNING] 18:07:01:613 ComandaLog/(6555:7595): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:07:01:613 ComandaLog/(6555:7595): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:07:01:613 ComandaLog/(6555:7595): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 18:07:03:229 ComandaLog/(6555:7597): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[INFO] 18:07:03:230 ComandaLog/(6555:7597): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:07:03:230 ComandaLog/(6555:7597): Se eliminará una página por LRU
+[DEBUG] 18:07:03:230 ComandaLog/(6555:7597): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 18:07:03:230 ComandaLog/(6555:7597): El marco a asignar en memoria es el: 1
+[DEBUG] 18:07:03:230 ComandaLog/(6555:7597): Se insertó en memoria el plato: TortillaDePapa en el frame: 1, donde comienza en: 32
+[DEBUG] 18:07:03:230 ComandaLog/(6555:7597): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 18:07:03:231 ComandaLog/(6555:7597): Se actualizó la cantidad lista a 2 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[TRACE] 18:07:03:231 ComandaLog/(6555:7597): Se actualizo el estado del pedido 1 a TERMINADO
+[INFO] 18:07:03:234 ComandaLog/(6555:7598): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:07:03:234 ComandaLog/(6555:7598): Se eliminará una página por LRU
+[DEBUG] 18:07:03:234 ComandaLog/(6555:7598): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 18:07:03:235 ComandaLog/(6555:7598): El marco a asignar en memoria es el: 3
+[DEBUG] 18:07:03:235 ComandaLog/(6555:7598): Se insertó en memoria el plato: WokDeVegetales en el frame: 3, donde comienza en: 96
+[WARNING] 18:07:03:235 ComandaLog/(6555:7598): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:07:03:235 ComandaLog/(6555:7598): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 18:07:04:609 ComandaLog/(6555:7600): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 18:07:04:609 ComandaLog/(6555:7600): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:07:04:610 ComandaLog/(6555:7600): Se eliminará una página por LRU
+[DEBUG] 18:07:04:610 ComandaLog/(6555:7600): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 18:07:04:613 ComandaLog/(6555:7600): Se procede a leer en SWAP la página en el frame 5
+[INFO] 18:07:04:616 ComandaLog/(6555:7600): [msync]Se guardaron los cambios de la página Choripan en SWAP exitosamente
+[INFO] 18:07:04:618 ComandaLog/(6555:7600): El marco a asignar en memoria es el: 2
+[DEBUG] 18:07:04:618 ComandaLog/(6555:7600): Se insertó en memoria el plato: AsadoSeco en el frame: 2, donde comienza en: 64
+[INFO] 18:07:04:618 ComandaLog/(6555:7600): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:07:04:618 ComandaLog/(6555:7600): Se eliminará una página por LRU
+[DEBUG] 18:07:04:618 ComandaLog/(6555:7600): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 18:07:04:618 ComandaLog/(6555:7600): El marco a asignar en memoria es el: 0
+[DEBUG] 18:07:04:618 ComandaLog/(6555:7600): Se insertó en memoria el plato: Choripan en el frame: 0, donde comienza en: 0
+[DEBUG] 18:07:04:618 ComandaLog/(6555:7600): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 18:07:04:618 ComandaLog/(6555:7600): Se actualizó la cantidad lista a 4 de la página Choripan del pedido 1, restaurante: LaParri
+[TRACE] 18:07:04:618 ComandaLog/(6555:7600): Se actualizo el estado del pedido 1 a TERMINADO
+[INFO] 18:07:04:622 ComandaLog/(6555:7601): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 18:07:04:622 ComandaLog/(6555:7601): Se eliminará una página por LRU
+[DEBUG] 18:07:04:637 ComandaLog/(6555:7601): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 18:07:04:637 ComandaLog/(6555:7601): Se procede a leer en SWAP la página en el frame 2
+[INFO] 18:07:04:639 ComandaLog/(6555:7601): [msync]Se guardaron los cambios de la página TortillaDePapa en SWAP exitosamente
+[INFO] 18:07:04:642 ComandaLog/(6555:7601): El marco a asignar en memoria es el: 1
+[DEBUG] 18:07:04:642 ComandaLog/(6555:7601): Se insertó en memoria el plato: AsadoJugoso en el frame: 1, donde comienza en: 32
+[WARNING] 18:07:04:642 ComandaLog/(6555:7601): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 18:07:04:642 ComandaLog/(6555:7601): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 18:07:04:642 ComandaLog/(6555:7601): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[TRACE] 18:07:10:77 ComandaLog/(6555:7603): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante GreenLife
+[INFO] 18:07:13:75 ComandaLog/(6555:7605): El marco a asignar en memoria es el: 3
+[DEBUG] 18:07:13:75 ComandaLog/(6555:7605): Se insertó en memoria el plato: MilaCompleta en el frame: 3, donde comienza en: 96
+[DEBUG] 18:07:13:75 ComandaLog/(6555:7605): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[TRACE] 18:07:21:82 ComandaLog/(6555:7606): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante MilangaPalace
+[TRACE] 18:07:22:79 ComandaLog/(6555:7608): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante LaParri
+[INFO] 14:20:46:542 ComandaLog/(6543:6567): Se conectó la APP
+[INFO] 14:26:17:289 ComandaLog/(6672:6691): Se conectó la APP
+[INFO] 14:35:10:178 ComandaLog/(6672:7571): La tabla de segmentos del restaurante -MilangaPalace- no existe,procedo a crearla
+[DEBUG] 14:35:10:178 ComandaLog/(6672:7571): Se creó la tabla de segmentos del restaurante -MilangaPalace-
+[DEBUG] 14:35:10:179 ComandaLog/(6672:7571): Se agregó el pedido 1 del restaurante MilangaPalace correctamente
+[INFO] 14:35:14:342 ComandaLog/(6672:7574): La página MilaCompleta del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:35:14:343 ComandaLog/(6672:7574): El marco a asignar en SWAP es el: 0
+[INFO] 14:35:14:343 ComandaLog/(6672:7574): Se inserto en SWAP el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[INFO] 14:35:14:370 ComandaLog/(6672:7574): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:35:14:370 ComandaLog/(6672:7574): El marco a asignar en memoria es el: 0
+[DEBUG] 14:35:14:370 ComandaLog/(6672:7574): Se insertó en memoria el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[INFO] 14:35:14:370 ComandaLog/(6672:7574): Se añadió el plato MilaCompleta en la tabla de páginas del pedido 1, restaurante: MilangaPalace
+[INFO] 14:35:31:475 ComandaLog/(6672:7580): La tabla de segmentos del restaurante -GreenLife- no existe,procedo a crearla
+[DEBUG] 14:35:31:475 ComandaLog/(6672:7580): Se creó la tabla de segmentos del restaurante -GreenLife-
+[DEBUG] 14:35:31:475 ComandaLog/(6672:7580): Se agregó el pedido 1 del restaurante GreenLife correctamente
+[INFO] 14:35:39:421 ComandaLog/(6672:7583): La página WokDeVegetales del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:35:39:423 ComandaLog/(6672:7583): El marco a asignar en SWAP es el: 1
+[INFO] 14:35:39:426 ComandaLog/(6672:7583): Se inserto en SWAP el plato: WokDeVegetales en el frame: 1, donde comienza en: 32
+[INFO] 14:35:39:429 ComandaLog/(6672:7583): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:35:39:429 ComandaLog/(6672:7583): El marco a asignar en memoria es el: 1
+[DEBUG] 14:35:39:430 ComandaLog/(6672:7583): Se insertó en memoria el plato: WokDeVegetales en el frame: 1, donde comienza en: 32
+[INFO] 14:35:39:430 ComandaLog/(6672:7583): Se añadió el plato WokDeVegetales en la tabla de páginas del pedido 1, restaurante: GreenLife
+[INFO] 14:35:44:738 ComandaLog/(6672:7586): La página TortillaDePapa del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:35:44:742 ComandaLog/(6672:7586): El marco a asignar en SWAP es el: 2
+[INFO] 14:35:44:743 ComandaLog/(6672:7586): Se inserto en SWAP el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[INFO] 14:35:44:744 ComandaLog/(6672:7586): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:35:44:744 ComandaLog/(6672:7586): El marco a asignar en memoria es el: 2
+[DEBUG] 14:35:44:744 ComandaLog/(6672:7586): Se insertó en memoria el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[INFO] 14:35:44:744 ComandaLog/(6672:7586): Se añadió el plato TortillaDePapa en la tabla de páginas del pedido 1, restaurante: GreenLife
+[INFO] 14:35:49:218 ComandaLog/(6672:7589): Se actualizó la cantidad total a 2 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[INFO] 14:36:03:648 ComandaLog/(6672:7593): La tabla de segmentos del restaurante -LaParri- no existe,procedo a crearla
+[DEBUG] 14:36:03:648 ComandaLog/(6672:7593): Se creó la tabla de segmentos del restaurante -LaParri-
+[DEBUG] 14:36:03:648 ComandaLog/(6672:7593): Se agregó el pedido 1 del restaurante LaParri correctamente
+[INFO] 14:36:08:226 ComandaLog/(6672:7596): La página AsadoJugoso del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:36:08:227 ComandaLog/(6672:7596): El marco a asignar en SWAP es el: 3
+[INFO] 14:36:08:227 ComandaLog/(6672:7596): Se inserto en SWAP el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[INFO] 14:36:08:230 ComandaLog/(6672:7596): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:36:08:230 ComandaLog/(6672:7596): El marco a asignar en memoria es el: 3
+[DEBUG] 14:36:08:230 ComandaLog/(6672:7596): Se insertó en memoria el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[INFO] 14:36:08:230 ComandaLog/(6672:7596): Se añadió el plato AsadoJugoso en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 14:36:13:322 ComandaLog/(6672:7599): La página AsadoSeco del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:36:13:323 ComandaLog/(6672:7599): El marco a asignar en SWAP es el: 4
+[INFO] 14:36:13:323 ComandaLog/(6672:7599): Se inserto en SWAP el plato: AsadoSeco en el frame: 4, donde comienza en: 128
+[INFO] 14:36:13:326 ComandaLog/(6672:7599): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:36:13:326 ComandaLog/(6672:7599): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:13:326 ComandaLog/(6672:7599): Se eliminará una página por LRU
+[DEBUG] 14:36:13:326 ComandaLog/(6672:7599): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:36:13:326 ComandaLog/(6672:7599): El marco a asignar en memoria es el: 0
+[DEBUG] 14:36:13:326 ComandaLog/(6672:7599): Se insertó en memoria el plato: AsadoSeco en el frame: 0, donde comienza en: 0
+[INFO] 14:36:13:326 ComandaLog/(6672:7599): Se añadió el plato AsadoSeco en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 14:36:17:970 ComandaLog/(6672:7602): La página Choripan del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:36:17:971 ComandaLog/(6672:7602): El marco a asignar en SWAP es el: 5
+[INFO] 14:36:17:971 ComandaLog/(6672:7602): Se inserto en SWAP el plato: Choripan en el frame: 5, donde comienza en: 160
+[INFO] 14:36:17:981 ComandaLog/(6672:7602): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:36:17:981 ComandaLog/(6672:7602): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:17:982 ComandaLog/(6672:7602): Se eliminará una página por LRU
+[DEBUG] 14:36:17:982 ComandaLog/(6672:7602): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 14:36:17:982 ComandaLog/(6672:7602): El marco a asignar en memoria es el: 1
+[DEBUG] 14:36:17:982 ComandaLog/(6672:7602): Se insertó en memoria el plato: Choripan en el frame: 1, donde comienza en: 32
+[INFO] 14:36:17:982 ComandaLog/(6672:7602): Se añadió el plato Choripan en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 14:36:21:144 ComandaLog/(6672:7605): Se actualizó la cantidad total a 2 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 14:36:24:542 ComandaLog/(6672:7608): Se actualizó la cantidad total a 3 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 14:36:27:869 ComandaLog/(6672:7611): Se actualizó la cantidad total a 4 de la página Choripan del pedido 1, restaurante: LaParri
+[WARNING] 14:36:38:34 ComandaLog/(6672:7613): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:36:38:35 ComandaLog/(6672:7613): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:36:38:35 ComandaLog/(6672:7613): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:36:38:35 ComandaLog/(6672:7613): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:36:39:598 ComandaLog/(6672:7619): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:39:599 ComandaLog/(6672:7619): Se eliminará una página por LRU
+[DEBUG] 14:36:39:599 ComandaLog/(6672:7619): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:36:39:599 ComandaLog/(6672:7619): Se procede a leer en SWAP la página en el frame 2
+[INFO] 14:36:39:604 ComandaLog/(6672:7619): [msync]Se guardaron los cambios de la página TortillaDePapa en SWAP exitosamente
+[INFO] 14:36:39:604 ComandaLog/(6672:7619): El marco a asignar en memoria es el: 2
+[DEBUG] 14:36:39:604 ComandaLog/(6672:7619): Se insertó en memoria el plato: MilaCompleta en el frame: 2, donde comienza en: 64
+[DEBUG] 14:36:39:604 ComandaLog/(6672:7619): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[DEBUG] 14:36:40:650 ComandaLog/(6672:7624): Se cambió el estado del pedido 1 a CONFIRMADO
+[INFO] 14:36:41:455 ComandaLog/(6672:7627): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:41:455 ComandaLog/(6672:7627): Se eliminará una página por LRU
+[DEBUG] 14:36:41:455 ComandaLog/(6672:7627): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:36:41:455 ComandaLog/(6672:7627): El marco a asignar en memoria es el: 3
+[DEBUG] 14:36:41:455 ComandaLog/(6672:7627): Se insertó en memoria el plato: WokDeVegetales en el frame: 3, donde comienza en: 96
+[INFO] 14:36:41:456 ComandaLog/(6672:7627): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:41:456 ComandaLog/(6672:7627): Se eliminará una página por LRU
+[DEBUG] 14:36:41:456 ComandaLog/(6672:7627): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:36:41:456 ComandaLog/(6672:7627): El marco a asignar en memoria es el: 0
+[DEBUG] 14:36:41:456 ComandaLog/(6672:7627): Se insertó en memoria el plato: TortillaDePapa en el frame: 0, donde comienza en: 0
+[DEBUG] 14:36:41:457 ComandaLog/(6672:7627): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:36:43:571 ComandaLog/(6672:7635): La página MilaCompleta del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:36:43:571 ComandaLog/(6672:7635): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[DEBUG] 14:36:44:94 ComandaLog/(6672:7636): Se cambió el estado del pedido 1 a CONFIRMADO
+[DEBUG] 14:36:44:486 ComandaLog/(6672:7637): Se cambió el estado del pedido 1 a CONFIRMADO
+[INFO] 14:36:52:574 ComandaLog/(6672:7638): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:52:575 ComandaLog/(6672:7638): Se eliminará una página por LRU
+[DEBUG] 14:36:52:575 ComandaLog/(6672:7638): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 14:36:52:575 ComandaLog/(6672:7638): Se procede a leer en SWAP la página en el frame 5
+[INFO] 14:36:52:578 ComandaLog/(6672:7638): [msync]Se guardaron los cambios de la página Choripan en SWAP exitosamente
+[INFO] 14:36:52:578 ComandaLog/(6672:7638): El marco a asignar en memoria es el: 1
+[DEBUG] 14:36:52:578 ComandaLog/(6672:7638): Se insertó en memoria el plato: AsadoJugoso en el frame: 1, donde comienza en: 32
+[INFO] 14:36:52:578 ComandaLog/(6672:7638): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:52:578 ComandaLog/(6672:7638): Se eliminará una página por LRU
+[DEBUG] 14:36:52:578 ComandaLog/(6672:7638): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:36:52:578 ComandaLog/(6672:7638): El marco a asignar en memoria es el: 2
+[DEBUG] 14:36:52:578 ComandaLog/(6672:7638): Se insertó en memoria el plato: AsadoSeco en el frame: 2, donde comienza en: 64
+[INFO] 14:36:52:578 ComandaLog/(6672:7638): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:52:578 ComandaLog/(6672:7638): Se eliminará una página por LRU
+[DEBUG] 14:36:52:578 ComandaLog/(6672:7638): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:36:52:578 ComandaLog/(6672:7638): El marco a asignar en memoria es el: 3
+[DEBUG] 14:36:52:578 ComandaLog/(6672:7638): Se insertó en memoria el plato: Choripan en el frame: 3, donde comienza en: 96
+[DEBUG] 14:36:52:579 ComandaLog/(6672:7638): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 14:36:55:565 ComandaLog/(6672:7640): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:36:55:566 ComandaLog/(6672:7640): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:36:55:566 ComandaLog/(6672:7640): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:36:55:566 ComandaLog/(6672:7640): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:36:55:567 ComandaLog/(6672:7640): Se actualizó la cantidad lista a 1 de la página AsadoJugoso del pedido 1, restaurante: LaParri
+[WARNING] 14:36:55:567 ComandaLog/(6672:7641): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:36:55:568 ComandaLog/(6672:7641): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:36:55:568 ComandaLog/(6672:7641): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:36:55:568 ComandaLog/(6672:7641): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:36:56:690 ComandaLog/(6672:7644): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:36:56:691 ComandaLog/(6672:7644): Se eliminará una página por LRU
+[DEBUG] 14:36:56:691 ComandaLog/(6672:7644): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:36:56:691 ComandaLog/(6672:7644): El marco a asignar en memoria es el: 0
+[DEBUG] 14:36:56:691 ComandaLog/(6672:7644): Se insertó en memoria el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[DEBUG] 14:36:56:691 ComandaLog/(6672:7644): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[INFO] 14:36:56:692 ComandaLog/(6672:7644): Se actualizó la cantidad lista a 1 de la página MilaCompleta del pedido 1, restaurante: MilangaPalace
+[TRACE] 14:36:56:692 ComandaLog/(6672:7644): Se actualizo el estado del pedido 1 a TERMINADO
+[WARNING] 14:36:56:692 ComandaLog/(6672:7645): La página MilaCompleta del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:36:56:692 ComandaLog/(6672:7645): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[TRACE] 14:37:07:587 ComandaLog/(6672:7650): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante MilangaPalace
+[INFO] 14:37:10:71 ComandaLog/(6672:7653): El marco a asignar en memoria es el: 0
+[DEBUG] 14:37:10:71 ComandaLog/(6672:7653): Se insertó en memoria el plato: WokDeVegetales en el frame: 0, donde comienza en: 0
+[INFO] 14:37:10:71 ComandaLog/(6672:7653): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:10:71 ComandaLog/(6672:7653): Se eliminará una página por LRU
+[DEBUG] 14:37:10:71 ComandaLog/(6672:7653): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:37:10:72 ComandaLog/(6672:7653): El marco a asignar en memoria es el: 2
+[DEBUG] 14:37:10:72 ComandaLog/(6672:7653): Se insertó en memoria el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[DEBUG] 14:37:10:72 ComandaLog/(6672:7653): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 14:37:10:72 ComandaLog/(6672:7653): Se actualizó la cantidad lista a 1 de la página WokDeVegetales del pedido 1, restaurante: GreenLife
+[WARNING] 14:37:10:73 ComandaLog/(6672:7654): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:10:73 ComandaLog/(6672:7654): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:10:73 ComandaLog/(6672:7654): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:37:15:572 ComandaLog/(6672:7657): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:37:15:572 ComandaLog/(6672:7657): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:15:572 ComandaLog/(6672:7657): Se eliminará una página por LRU
+[DEBUG] 14:37:15:572 ComandaLog/(6672:7657): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:37:15:572 ComandaLog/(6672:7657): El marco a asignar en memoria es el: 3
+[DEBUG] 14:37:15:573 ComandaLog/(6672:7657): Se insertó en memoria el plato: AsadoSeco en el frame: 3, donde comienza en: 96
+[INFO] 14:37:15:573 ComandaLog/(6672:7657): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:15:582 ComandaLog/(6672:7657): Se eliminará una página por LRU
+[DEBUG] 14:37:15:582 ComandaLog/(6672:7657): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 14:37:15:582 ComandaLog/(6672:7657): Se procede a leer en SWAP la página en el frame 3
+[INFO] 14:37:15:585 ComandaLog/(6672:7657): [msync]Se guardaron los cambios de la página AsadoJugoso en SWAP exitosamente
+[INFO] 14:37:15:585 ComandaLog/(6672:7657): El marco a asignar en memoria es el: 1
+[DEBUG] 14:37:15:585 ComandaLog/(6672:7657): Se insertó en memoria el plato: Choripan en el frame: 1, donde comienza en: 32
+[DEBUG] 14:37:15:585 ComandaLog/(6672:7657): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:37:15:585 ComandaLog/(6672:7657): Se actualizó la cantidad lista a 1 de la página AsadoSeco del pedido 1, restaurante: LaParri
+[INFO] 14:37:15:590 ComandaLog/(6672:7658): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:15:591 ComandaLog/(6672:7658): Se eliminará una página por LRU
+[DEBUG] 14:37:15:591 ComandaLog/(6672:7658): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:37:15:591 ComandaLog/(6672:7658): El marco a asignar en memoria es el: 2
+[DEBUG] 14:37:15:591 ComandaLog/(6672:7658): Se insertó en memoria el plato: AsadoJugoso en el frame: 2, donde comienza en: 64
+[WARNING] 14:37:15:592 ComandaLog/(6672:7658): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:15:592 ComandaLog/(6672:7658): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:15:592 ComandaLog/(6672:7658): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 14:37:18:575 ComandaLog/(6672:7661): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:18:575 ComandaLog/(6672:7661): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:18:575 ComandaLog/(6672:7661): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:18:576 ComandaLog/(6672:7661): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:37:18:576 ComandaLog/(6672:7661): Se actualizó la cantidad lista a 1 de la página Choripan del pedido 1, restaurante: LaParri
+[WARNING] 14:37:18:576 ComandaLog/(6672:7662): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:18:576 ComandaLog/(6672:7662): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:18:576 ComandaLog/(6672:7662): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:18:577 ComandaLog/(6672:7662): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 14:37:18:587 ComandaLog/(6672:7664): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:37:18:587 ComandaLog/(6672:7664): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:18:589 ComandaLog/(6672:7664): Se eliminará una página por LRU
+[DEBUG] 14:37:18:589 ComandaLog/(6672:7664): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:37:18:589 ComandaLog/(6672:7664): Se procede a leer en SWAP la página en el frame 1
+[INFO] 14:37:18:592 ComandaLog/(6672:7664): [msync]Se guardaron los cambios de la página WokDeVegetales en SWAP exitosamente
+[INFO] 14:37:18:592 ComandaLog/(6672:7664): El marco a asignar en memoria es el: 0
+[DEBUG] 14:37:18:592 ComandaLog/(6672:7664): Se insertó en memoria el plato: TortillaDePapa en el frame: 0, donde comienza en: 0
+[DEBUG] 14:37:18:592 ComandaLog/(6672:7664): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 14:37:20:73 ComandaLog/(6672:7666): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:20:73 ComandaLog/(6672:7666): Se eliminará una página por LRU
+[DEBUG] 14:37:20:73 ComandaLog/(6672:7666): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:37:20:74 ComandaLog/(6672:7666): Se procede a leer en SWAP la página en el frame 4
+[INFO] 14:37:20:76 ComandaLog/(6672:7666): [msync]Se guardaron los cambios de la página AsadoSeco en SWAP exitosamente
+[INFO] 14:37:20:77 ComandaLog/(6672:7666): El marco a asignar en memoria es el: 3
+[DEBUG] 14:37:20:77 ComandaLog/(6672:7666): Se insertó en memoria el plato: WokDeVegetales en el frame: 3, donde comienza en: 96
+[WARNING] 14:37:20:77 ComandaLog/(6672:7666): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:20:77 ComandaLog/(6672:7666): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 14:37:20:77 ComandaLog/(6672:7666): Se actualizó la cantidad lista a 1 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[WARNING] 14:37:20:86 ComandaLog/(6672:7667): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:20:86 ComandaLog/(6672:7667): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:20:87 ComandaLog/(6672:7667): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:37:21:575 ComandaLog/(6672:7670): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:37:21:575 ComandaLog/(6672:7670): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:21:575 ComandaLog/(6672:7670): Se eliminará una página por LRU
+[DEBUG] 14:37:21:576 ComandaLog/(6672:7670): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:37:21:576 ComandaLog/(6672:7670): El marco a asignar en memoria es el: 2
+[DEBUG] 14:37:21:576 ComandaLog/(6672:7670): Se insertó en memoria el plato: AsadoSeco en el frame: 2, donde comienza en: 64
+[WARNING] 14:37:21:576 ComandaLog/(6672:7670): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:21:576 ComandaLog/(6672:7670): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:37:21:577 ComandaLog/(6672:7670): Se actualizó la cantidad lista a 2 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 14:37:21:578 ComandaLog/(6672:7671): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:21:578 ComandaLog/(6672:7671): Se eliminará una página por LRU
+[DEBUG] 14:37:21:579 ComandaLog/(6672:7671): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:37:21:579 ComandaLog/(6672:7671): El marco a asignar en memoria es el: 3
+[DEBUG] 14:37:21:579 ComandaLog/(6672:7671): Se insertó en memoria el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[WARNING] 14:37:21:580 ComandaLog/(6672:7671): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:21:580 ComandaLog/(6672:7671): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:21:580 ComandaLog/(6672:7671): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:37:25:78 ComandaLog/(6672:7674): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:25:79 ComandaLog/(6672:7674): Se eliminará una página por LRU
+[DEBUG] 14:37:25:80 ComandaLog/(6672:7674): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:37:25:80 ComandaLog/(6672:7674): Se procede a leer en SWAP la página en el frame 2
+[INFO] 14:37:25:84 ComandaLog/(6672:7674): [msync]Se guardaron los cambios de la página TortillaDePapa en SWAP exitosamente
+[INFO] 14:37:25:84 ComandaLog/(6672:7674): El marco a asignar en memoria es el: 0
+[DEBUG] 14:37:25:84 ComandaLog/(6672:7674): Se insertó en memoria el plato: WokDeVegetales en el frame: 0, donde comienza en: 0
+[INFO] 14:37:25:84 ComandaLog/(6672:7674): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:25:84 ComandaLog/(6672:7674): Se eliminará una página por LRU
+[DEBUG] 14:37:25:84 ComandaLog/(6672:7674): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 14:37:25:84 ComandaLog/(6672:7674): Se procede a leer en SWAP la página en el frame 5
+[INFO] 14:37:25:85 ComandaLog/(6672:7674): [msync]Se guardaron los cambios de la página Choripan en SWAP exitosamente
+[INFO] 14:37:25:85 ComandaLog/(6672:7674): El marco a asignar en memoria es el: 1
+[DEBUG] 14:37:25:85 ComandaLog/(6672:7674): Se insertó en memoria el plato: TortillaDePapa en el frame: 1, donde comienza en: 32
+[DEBUG] 14:37:25:85 ComandaLog/(6672:7674): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 14:37:25:85 ComandaLog/(6672:7674): Se actualizó la cantidad lista a 2 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[TRACE] 14:37:25:85 ComandaLog/(6672:7674): Se actualizo el estado del pedido 1 a TERMINADO
+[WARNING] 14:37:25:90 ComandaLog/(6672:7675): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:25:91 ComandaLog/(6672:7675): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:25:91 ComandaLog/(6672:7675): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:37:26:583 ComandaLog/(6672:7678): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:26:587 ComandaLog/(6672:7678): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:37:26:587 ComandaLog/(6672:7678): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:26:587 ComandaLog/(6672:7678): Se eliminará una página por LRU
+[DEBUG] 14:37:26:587 ComandaLog/(6672:7678): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:37:26:587 ComandaLog/(6672:7678): El marco a asignar en memoria es el: 2
+[DEBUG] 14:37:26:587 ComandaLog/(6672:7678): Se insertó en memoria el plato: Choripan en el frame: 2, donde comienza en: 64
+[DEBUG] 14:37:26:587 ComandaLog/(6672:7678): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:37:26:587 ComandaLog/(6672:7678): Se actualizó la cantidad lista a 3 de la página Choripan del pedido 1, restaurante: LaParri
+[WARNING] 14:37:26:589 ComandaLog/(6672:7679): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:37:26:589 ComandaLog/(6672:7679): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:26:590 ComandaLog/(6672:7679): Se eliminará una página por LRU
+[DEBUG] 14:37:26:590 ComandaLog/(6672:7679): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:37:26:590 ComandaLog/(6672:7679): El marco a asignar en memoria es el: 3
+[DEBUG] 14:37:26:591 ComandaLog/(6672:7679): Se insertó en memoria el plato: AsadoSeco en el frame: 3, donde comienza en: 96
+[WARNING] 14:37:26:591 ComandaLog/(6672:7679): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:26:591 ComandaLog/(6672:7679): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:37:29:582 ComandaLog/(6672:7682): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:37:29:583 ComandaLog/(6672:7682): Se eliminará una página por LRU
+[DEBUG] 14:37:29:583 ComandaLog/(6672:7682): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:37:29:583 ComandaLog/(6672:7682): El marco a asignar en memoria es el: 0
+[DEBUG] 14:37:29:583 ComandaLog/(6672:7682): Se insertó en memoria el plato: AsadoJugoso en el frame: 0, donde comienza en: 0
+[WARNING] 14:37:29:584 ComandaLog/(6672:7682): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:29:584 ComandaLog/(6672:7682): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:29:584 ComandaLog/(6672:7682): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:37:29:584 ComandaLog/(6672:7682): Se actualizó la cantidad lista a 4 de la página Choripan del pedido 1, restaurante: LaParri
+[TRACE] 14:37:29:584 ComandaLog/(6672:7682): Se actualizo el estado del pedido 1 a TERMINADO
+[WARNING] 14:37:29:585 ComandaLog/(6672:7683): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:29:585 ComandaLog/(6672:7683): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:37:29:585 ComandaLog/(6672:7683): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:37:29:585 ComandaLog/(6672:7683): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[TRACE] 14:37:31:598 ComandaLog/(6672:7685): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante GreenLife
+[TRACE] 14:37:46:603 ComandaLog/(6672:7687): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante LaParri
+[INFO] 14:48:00:540 ComandaLog/(8155:8319): Se conectó la APP
+[INFO] 14:51:59:580 ComandaLog/(8155:8859): La tabla de segmentos del restaurante -MilangaPalace- no existe,procedo a crearla
+[DEBUG] 14:51:59:580 ComandaLog/(8155:8859): Se creó la tabla de segmentos del restaurante -MilangaPalace-
+[DEBUG] 14:51:59:580 ComandaLog/(8155:8859): Se agregó el pedido 1 del restaurante MilangaPalace correctamente
+[INFO] 14:52:06:225 ComandaLog/(8155:8862): La página MilaCompleta del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:52:06:225 ComandaLog/(8155:8862): El marco a asignar en SWAP es el: 0
+[INFO] 14:52:06:225 ComandaLog/(8155:8862): Se inserto en SWAP el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[INFO] 14:52:06:231 ComandaLog/(8155:8862): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:52:06:231 ComandaLog/(8155:8862): El marco a asignar en memoria es el: 0
+[DEBUG] 14:52:06:231 ComandaLog/(8155:8862): Se insertó en memoria el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[INFO] 14:52:06:231 ComandaLog/(8155:8862): Se añadió el plato MilaCompleta en la tabla de páginas del pedido 1, restaurante: MilangaPalace
+[INFO] 14:52:20:97 ComandaLog/(8155:8866): La tabla de segmentos del restaurante -GreenLife- no existe,procedo a crearla
+[DEBUG] 14:52:20:97 ComandaLog/(8155:8866): Se creó la tabla de segmentos del restaurante -GreenLife-
+[DEBUG] 14:52:20:97 ComandaLog/(8155:8866): Se agregó el pedido 1 del restaurante GreenLife correctamente
+[INFO] 14:52:27:130 ComandaLog/(8155:8869): La página WokDeVegetales del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:52:27:131 ComandaLog/(8155:8869): El marco a asignar en SWAP es el: 1
+[INFO] 14:52:27:131 ComandaLog/(8155:8869): Se inserto en SWAP el plato: WokDeVegetales en el frame: 1, donde comienza en: 32
+[INFO] 14:52:27:132 ComandaLog/(8155:8869): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:52:27:132 ComandaLog/(8155:8869): El marco a asignar en memoria es el: 1
+[DEBUG] 14:52:27:132 ComandaLog/(8155:8869): Se insertó en memoria el plato: WokDeVegetales en el frame: 1, donde comienza en: 32
+[INFO] 14:52:27:132 ComandaLog/(8155:8869): Se añadió el plato WokDeVegetales en la tabla de páginas del pedido 1, restaurante: GreenLife
+[INFO] 14:52:33:453 ComandaLog/(8155:8872): La página TortillaDePapa del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:52:33:453 ComandaLog/(8155:8872): El marco a asignar en SWAP es el: 2
+[INFO] 14:52:33:453 ComandaLog/(8155:8872): Se inserto en SWAP el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[INFO] 14:52:33:457 ComandaLog/(8155:8872): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:52:33:458 ComandaLog/(8155:8872): El marco a asignar en memoria es el: 2
+[DEBUG] 14:52:33:459 ComandaLog/(8155:8872): Se insertó en memoria el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[INFO] 14:52:33:459 ComandaLog/(8155:8872): Se añadió el plato TortillaDePapa en la tabla de páginas del pedido 1, restaurante: GreenLife
+[INFO] 14:52:36:342 ComandaLog/(8155:8875): Se actualizó la cantidad total a 2 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[INFO] 14:52:51:166 ComandaLog/(8155:8879): La tabla de segmentos del restaurante -LaParri- no existe,procedo a crearla
+[DEBUG] 14:52:51:166 ComandaLog/(8155:8879): Se creó la tabla de segmentos del restaurante -LaParri-
+[DEBUG] 14:52:51:167 ComandaLog/(8155:8879): Se agregó el pedido 1 del restaurante LaParri correctamente
+[INFO] 14:53:01:746 ComandaLog/(8155:8882): La página AsadoJugoso del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:53:01:746 ComandaLog/(8155:8882): El marco a asignar en SWAP es el: 3
+[INFO] 14:53:01:747 ComandaLog/(8155:8882): Se inserto en SWAP el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[INFO] 14:53:01:754 ComandaLog/(8155:8882): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:53:01:754 ComandaLog/(8155:8882): El marco a asignar en memoria es el: 3
+[DEBUG] 14:53:01:754 ComandaLog/(8155:8882): Se insertó en memoria el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[INFO] 14:53:01:754 ComandaLog/(8155:8882): Se añadió el plato AsadoJugoso en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 14:53:07:772 ComandaLog/(8155:8889): La página AsadoSeco del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:53:07:772 ComandaLog/(8155:8889): El marco a asignar en SWAP es el: 4
+[INFO] 14:53:07:778 ComandaLog/(8155:8889): Se inserto en SWAP el plato: AsadoSeco en el frame: 4, donde comienza en: 128
+[INFO] 14:53:07:799 ComandaLog/(8155:8889): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:53:07:799 ComandaLog/(8155:8889): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:07:799 ComandaLog/(8155:8889): Se eliminará una página por LRU
+[DEBUG] 14:53:07:799 ComandaLog/(8155:8889): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:53:07:799 ComandaLog/(8155:8889): El marco a asignar en memoria es el: 0
+[DEBUG] 14:53:07:799 ComandaLog/(8155:8889): Se insertó en memoria el plato: AsadoSeco en el frame: 0, donde comienza en: 0
+[INFO] 14:53:07:799 ComandaLog/(8155:8889): Se añadió el plato AsadoSeco en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 14:53:13:762 ComandaLog/(8155:8892): La página Choripan del pedido 1 no está cargada en SWAP, procedo a cargarla en SWAP y en memoria principal
+[INFO] 14:53:13:763 ComandaLog/(8155:8892): El marco a asignar en SWAP es el: 5
+[INFO] 14:53:13:763 ComandaLog/(8155:8892): Se inserto en SWAP el plato: Choripan en el frame: 5, donde comienza en: 160
+[INFO] 14:53:13:766 ComandaLog/(8155:8892): [msync]Se agregó la pagina en SWAP exitosamente
+[INFO] 14:53:13:766 ComandaLog/(8155:8892): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:13:766 ComandaLog/(8155:8892): Se eliminará una página por LRU
+[DEBUG] 14:53:13:766 ComandaLog/(8155:8892): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 14:53:13:766 ComandaLog/(8155:8892): El marco a asignar en memoria es el: 1
+[DEBUG] 14:53:13:766 ComandaLog/(8155:8892): Se insertó en memoria el plato: Choripan en el frame: 1, donde comienza en: 32
+[INFO] 14:53:13:766 ComandaLog/(8155:8892): Se añadió el plato Choripan en la tabla de páginas del pedido 1, restaurante: LaParri
+[INFO] 14:53:16:442 ComandaLog/(8155:8895): Se actualizó la cantidad total a 2 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 14:53:19:156 ComandaLog/(8155:8898): Se actualizó la cantidad total a 3 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 14:53:22:440 ComandaLog/(8155:8901): Se actualizó la cantidad total a 4 de la página Choripan del pedido 1, restaurante: LaParri
+[WARNING] 14:53:35:975 ComandaLog/(8155:8903): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:53:35:975 ComandaLog/(8155:8903): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:53:35:975 ComandaLog/(8155:8903): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:53:35:976 ComandaLog/(8155:8903): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:53:37:491 ComandaLog/(8155:8909): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:37:491 ComandaLog/(8155:8909): Se eliminará una página por LRU
+[DEBUG] 14:53:37:491 ComandaLog/(8155:8909): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:53:37:492 ComandaLog/(8155:8909): Se procede a leer en SWAP la página en el frame 2
+[INFO] 14:53:37:494 ComandaLog/(8155:8909): [msync]Se guardaron los cambios de la página TortillaDePapa en SWAP exitosamente
+[INFO] 14:53:37:494 ComandaLog/(8155:8909): El marco a asignar en memoria es el: 2
+[DEBUG] 14:53:37:495 ComandaLog/(8155:8909): Se insertó en memoria el plato: MilaCompleta en el frame: 2, donde comienza en: 64
+[DEBUG] 14:53:37:495 ComandaLog/(8155:8909): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[DEBUG] 14:53:38:514 ComandaLog/(8155:8914): Se cambió el estado del pedido 1 a CONFIRMADO
+[INFO] 14:53:39:191 ComandaLog/(8155:8917): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:39:191 ComandaLog/(8155:8917): Se eliminará una página por LRU
+[DEBUG] 14:53:39:191 ComandaLog/(8155:8917): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:53:39:192 ComandaLog/(8155:8917): El marco a asignar en memoria es el: 3
+[DEBUG] 14:53:39:192 ComandaLog/(8155:8917): Se insertó en memoria el plato: WokDeVegetales en el frame: 3, donde comienza en: 96
+[INFO] 14:53:39:192 ComandaLog/(8155:8917): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:39:192 ComandaLog/(8155:8917): Se eliminará una página por LRU
+[DEBUG] 14:53:39:193 ComandaLog/(8155:8917): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:53:39:193 ComandaLog/(8155:8917): El marco a asignar en memoria es el: 0
+[DEBUG] 14:53:39:193 ComandaLog/(8155:8917): Se insertó en memoria el plato: TortillaDePapa en el frame: 0, donde comienza en: 0
+[DEBUG] 14:53:39:194 ComandaLog/(8155:8917): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:53:40:717 ComandaLog/(8155:8923): La página MilaCompleta del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:53:40:718 ComandaLog/(8155:8923): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[DEBUG] 14:53:42:22 ComandaLog/(8155:8926): Se cambió el estado del pedido 1 a CONFIRMADO
+[DEBUG] 14:53:42:223 ComandaLog/(8155:8927): Se cambió el estado del pedido 1 a CONFIRMADO
+[INFO] 14:53:50:719 ComandaLog/(8155:8928): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:50:719 ComandaLog/(8155:8928): Se eliminará una página por LRU
+[DEBUG] 14:53:50:720 ComandaLog/(8155:8928): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 14:53:50:720 ComandaLog/(8155:8928): Se procede a leer en SWAP la página en el frame 5
+[INFO] 14:53:50:722 ComandaLog/(8155:8928): [msync]Se guardaron los cambios de la página Choripan en SWAP exitosamente
+[INFO] 14:53:50:723 ComandaLog/(8155:8928): El marco a asignar en memoria es el: 1
+[DEBUG] 14:53:50:723 ComandaLog/(8155:8928): Se insertó en memoria el plato: AsadoJugoso en el frame: 1, donde comienza en: 32
+[INFO] 14:53:50:723 ComandaLog/(8155:8928): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:50:723 ComandaLog/(8155:8928): Se eliminará una página por LRU
+[DEBUG] 14:53:50:723 ComandaLog/(8155:8928): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:53:50:724 ComandaLog/(8155:8928): El marco a asignar en memoria es el: 2
+[DEBUG] 14:53:50:724 ComandaLog/(8155:8928): Se insertó en memoria el plato: AsadoSeco en el frame: 2, donde comienza en: 64
+[INFO] 14:53:50:724 ComandaLog/(8155:8928): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:50:724 ComandaLog/(8155:8928): Se eliminará una página por LRU
+[DEBUG] 14:53:50:724 ComandaLog/(8155:8928): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:53:50:725 ComandaLog/(8155:8928): El marco a asignar en memoria es el: 3
+[DEBUG] 14:53:50:725 ComandaLog/(8155:8928): Se insertó en memoria el plato: Choripan en el frame: 3, donde comienza en: 96
+[DEBUG] 14:53:50:725 ComandaLog/(8155:8928): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 14:53:53:947 ComandaLog/(8155:8931): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:53:53:947 ComandaLog/(8155:8931): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:53:53:948 ComandaLog/(8155:8931): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:53:53:948 ComandaLog/(8155:8931): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:53:53:949 ComandaLog/(8155:8931): Se actualizó la cantidad lista a 1 de la página AsadoJugoso del pedido 1, restaurante: LaParri
+[WARNING] 14:53:53:954 ComandaLog/(8155:8932): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:53:53:954 ComandaLog/(8155:8932): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:53:53:954 ComandaLog/(8155:8932): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:53:53:954 ComandaLog/(8155:8932): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:53:55:419 ComandaLog/(8155:8934): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:53:55:419 ComandaLog/(8155:8934): Se eliminará una página por LRU
+[DEBUG] 14:53:55:419 ComandaLog/(8155:8934): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:53:55:419 ComandaLog/(8155:8934): El marco a asignar en memoria es el: 0
+[DEBUG] 14:53:55:419 ComandaLog/(8155:8934): Se insertó en memoria el plato: MilaCompleta en el frame: 0, donde comienza en: 0
+[DEBUG] 14:53:55:419 ComandaLog/(8155:8934): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[INFO] 14:53:55:419 ComandaLog/(8155:8934): Se actualizó la cantidad lista a 1 de la página MilaCompleta del pedido 1, restaurante: MilangaPalace
+[TRACE] 14:53:55:419 ComandaLog/(8155:8934): Se actualizo el estado del pedido 1 a TERMINADO
+[WARNING] 14:53:55:420 ComandaLog/(8155:8935): La página MilaCompleta del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:53:55:420 ComandaLog/(8155:8935): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: MilangaPalace
+[TRACE] 14:54:05:738 ComandaLog/(8155:8937): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante MilangaPalace
+[INFO] 14:54:07:662 ComandaLog/(8155:8940): El marco a asignar en memoria es el: 0
+[DEBUG] 14:54:07:663 ComandaLog/(8155:8940): Se insertó en memoria el plato: WokDeVegetales en el frame: 0, donde comienza en: 0
+[INFO] 14:54:07:663 ComandaLog/(8155:8940): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:07:663 ComandaLog/(8155:8940): Se eliminará una página por LRU
+[DEBUG] 14:54:07:664 ComandaLog/(8155:8940): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:54:07:664 ComandaLog/(8155:8940): El marco a asignar en memoria es el: 2
+[DEBUG] 14:54:07:664 ComandaLog/(8155:8940): Se insertó en memoria el plato: TortillaDePapa en el frame: 2, donde comienza en: 64
+[DEBUG] 14:54:07:665 ComandaLog/(8155:8940): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 14:54:07:667 ComandaLog/(8155:8940): Se actualizó la cantidad lista a 1 de la página WokDeVegetales del pedido 1, restaurante: GreenLife
+[WARNING] 14:54:07:668 ComandaLog/(8155:8941): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:07:668 ComandaLog/(8155:8941): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:07:668 ComandaLog/(8155:8941): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:54:13:958 ComandaLog/(8155:8945): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:54:13:958 ComandaLog/(8155:8945): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:13:958 ComandaLog/(8155:8945): Se eliminará una página por LRU
+[DEBUG] 14:54:13:959 ComandaLog/(8155:8945): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:54:13:959 ComandaLog/(8155:8945): El marco a asignar en memoria es el: 3
+[DEBUG] 14:54:13:959 ComandaLog/(8155:8945): Se insertó en memoria el plato: AsadoSeco en el frame: 3, donde comienza en: 96
+[INFO] 14:54:13:959 ComandaLog/(8155:8945): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:13:959 ComandaLog/(8155:8945): Se eliminará una página por LRU
+[DEBUG] 14:54:13:960 ComandaLog/(8155:8945): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 14:54:13:961 ComandaLog/(8155:8945): Se procede a leer en SWAP la página en el frame 3
+[INFO] 14:54:13:964 ComandaLog/(8155:8945): [msync]Se guardaron los cambios de la página AsadoJugoso en SWAP exitosamente
+[INFO] 14:54:13:964 ComandaLog/(8155:8945): El marco a asignar en memoria es el: 1
+[DEBUG] 14:54:13:964 ComandaLog/(8155:8945): Se insertó en memoria el plato: Choripan en el frame: 1, donde comienza en: 32
+[DEBUG] 14:54:13:964 ComandaLog/(8155:8945): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:54:13:964 ComandaLog/(8155:8945): Se actualizó la cantidad lista a 1 de la página AsadoSeco del pedido 1, restaurante: LaParri
+[INFO] 14:54:13:968 ComandaLog/(8155:8946): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:13:968 ComandaLog/(8155:8946): Se eliminará una página por LRU
+[DEBUG] 14:54:13:968 ComandaLog/(8155:8946): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:54:13:968 ComandaLog/(8155:8946): El marco a asignar en memoria es el: 2
+[DEBUG] 14:54:13:968 ComandaLog/(8155:8946): Se insertó en memoria el plato: AsadoJugoso en el frame: 2, donde comienza en: 64
+[WARNING] 14:54:13:968 ComandaLog/(8155:8946): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:13:968 ComandaLog/(8155:8946): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:13:968 ComandaLog/(8155:8946): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 14:54:16:742 ComandaLog/(8155:8947): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:54:16:743 ComandaLog/(8155:8947): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:16:743 ComandaLog/(8155:8947): Se eliminará una página por LRU
+[DEBUG] 14:54:16:743 ComandaLog/(8155:8947): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:54:16:743 ComandaLog/(8155:8947): Se procede a leer en SWAP la página en el frame 1
+[INFO] 14:54:16:746 ComandaLog/(8155:8947): [msync]Se guardaron los cambios de la página WokDeVegetales en SWAP exitosamente
+[INFO] 14:54:16:746 ComandaLog/(8155:8947): El marco a asignar en memoria es el: 0
+[DEBUG] 14:54:16:746 ComandaLog/(8155:8947): Se insertó en memoria el plato: TortillaDePapa en el frame: 0, donde comienza en: 0
+[DEBUG] 14:54:16:746 ComandaLog/(8155:8947): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:54:16:960 ComandaLog/(8155:8950): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:16:961 ComandaLog/(8155:8950): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:16:961 ComandaLog/(8155:8950): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:16:961 ComandaLog/(8155:8950): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:54:16:961 ComandaLog/(8155:8950): Se actualizó la cantidad lista a 1 de la página Choripan del pedido 1, restaurante: LaParri
+[WARNING] 14:54:16:962 ComandaLog/(8155:8951): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:16:962 ComandaLog/(8155:8951): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:16:962 ComandaLog/(8155:8951): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:16:962 ComandaLog/(8155:8951): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:54:17:667 ComandaLog/(8155:8953): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:17:667 ComandaLog/(8155:8953): Se eliminará una página por LRU
+[DEBUG] 14:54:17:668 ComandaLog/(8155:8953): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:54:17:668 ComandaLog/(8155:8953): Se procede a leer en SWAP la página en el frame 4
+[INFO] 14:54:17:678 ComandaLog/(8155:8953): [msync]Se guardaron los cambios de la página AsadoSeco en SWAP exitosamente
+[INFO] 14:54:17:678 ComandaLog/(8155:8953): El marco a asignar en memoria es el: 3
+[DEBUG] 14:54:17:678 ComandaLog/(8155:8953): Se insertó en memoria el plato: WokDeVegetales en el frame: 3, donde comienza en: 96
+[WARNING] 14:54:17:678 ComandaLog/(8155:8953): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:17:678 ComandaLog/(8155:8953): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 14:54:17:678 ComandaLog/(8155:8953): Se actualizó la cantidad lista a 1 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[WARNING] 14:54:17:682 ComandaLog/(8155:8954): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:17:682 ComandaLog/(8155:8954): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:17:683 ComandaLog/(8155:8954): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:54:19:962 ComandaLog/(8155:8958): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:54:19:963 ComandaLog/(8155:8958): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:19:963 ComandaLog/(8155:8958): Se eliminará una página por LRU
+[DEBUG] 14:54:19:963 ComandaLog/(8155:8958): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:54:19:963 ComandaLog/(8155:8958): El marco a asignar en memoria es el: 2
+[DEBUG] 14:54:19:963 ComandaLog/(8155:8958): Se insertó en memoria el plato: AsadoSeco en el frame: 2, donde comienza en: 64
+[WARNING] 14:54:19:964 ComandaLog/(8155:8958): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:19:964 ComandaLog/(8155:8958): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:54:19:964 ComandaLog/(8155:8958): Se actualizó la cantidad lista a 2 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 14:54:19:971 ComandaLog/(8155:8959): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:19:971 ComandaLog/(8155:8959): Se eliminará una página por LRU
+[DEBUG] 14:54:19:971 ComandaLog/(8155:8959): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:54:19:971 ComandaLog/(8155:8959): Se procede a leer en SWAP la página en el frame 2
+[INFO] 14:54:19:974 ComandaLog/(8155:8959): [msync]Se guardaron los cambios de la página TortillaDePapa en SWAP exitosamente
+[INFO] 14:54:19:974 ComandaLog/(8155:8959): El marco a asignar en memoria es el: 0
+[DEBUG] 14:54:19:974 ComandaLog/(8155:8959): Se insertó en memoria el plato: AsadoJugoso en el frame: 0, donde comienza en: 0
+[WARNING] 14:54:19:974 ComandaLog/(8155:8959): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:19:974 ComandaLog/(8155:8959): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:19:975 ComandaLog/(8155:8959): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 14:54:22:686 ComandaLog/(8155:8961): La página WokDeVegetales del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:54:22:687 ComandaLog/(8155:8961): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:22:687 ComandaLog/(8155:8961): Se eliminará una página por LRU
+[DEBUG] 14:54:22:688 ComandaLog/(8155:8961): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:54:22:688 ComandaLog/(8155:8961): El marco a asignar en memoria es el: 3
+[DEBUG] 14:54:22:688 ComandaLog/(8155:8961): Se insertó en memoria el plato: TortillaDePapa en el frame: 3, donde comienza en: 96
+[DEBUG] 14:54:22:688 ComandaLog/(8155:8961): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[INFO] 14:54:22:689 ComandaLog/(8155:8961): Se actualizó la cantidad lista a 2 de la página TortillaDePapa del pedido 1, restaurante: GreenLife
+[TRACE] 14:54:22:689 ComandaLog/(8155:8961): Se actualizo el estado del pedido 1 a TERMINADO
+[INFO] 14:54:22:691 ComandaLog/(8155:8962): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:22:691 ComandaLog/(8155:8962): Se eliminará una página por LRU
+[DEBUG] 14:54:22:691 ComandaLog/(8155:8962): Se eliminó por LRU el frame donde comenzaba en: 64
+[INFO] 14:54:22:691 ComandaLog/(8155:8962): El marco a asignar en memoria es el: 2
+[DEBUG] 14:54:22:691 ComandaLog/(8155:8962): Se insertó en memoria el plato: WokDeVegetales en el frame: 2, donde comienza en: 64
+[WARNING] 14:54:22:691 ComandaLog/(8155:8962): La página TortillaDePapa del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:22:691 ComandaLog/(8155:8962): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: GreenLife
+[WARNING] 14:54:24:964 ComandaLog/(8155:8966): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[INFO] 14:54:24:964 ComandaLog/(8155:8966): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:24:964 ComandaLog/(8155:8966): Se eliminará una página por LRU
+[DEBUG] 14:54:24:964 ComandaLog/(8155:8966): Se eliminó por LRU el frame donde comenzaba en: 32
+[INFO] 14:54:24:964 ComandaLog/(8155:8966): Se procede a leer en SWAP la página en el frame 5
+[INFO] 14:54:24:0 ComandaLog/(8155:8966): [msync]Se guardaron los cambios de la página Choripan en SWAP exitosamente
+[INFO] 14:54:24:0 ComandaLog/(8155:8966): El marco a asignar en memoria es el: 1
+[DEBUG] 14:54:24:0 ComandaLog/(8155:8966): Se insertó en memoria el plato: AsadoSeco en el frame: 1, donde comienza en: 32
+[INFO] 14:54:24:0 ComandaLog/(8155:8966): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:24:0 ComandaLog/(8155:8966): Se eliminará una página por LRU
+[DEBUG] 14:54:24:0 ComandaLog/(8155:8966): Se eliminó por LRU el frame donde comenzaba en: 0
+[INFO] 14:54:24:0 ComandaLog/(8155:8966): El marco a asignar en memoria es el: 0
+[DEBUG] 14:54:24:0 ComandaLog/(8155:8966): Se insertó en memoria el plato: Choripan en el frame: 0, donde comienza en: 0
+[DEBUG] 14:54:24:0 ComandaLog/(8155:8966): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:54:24:0 ComandaLog/(8155:8966): Se actualizó la cantidad lista a 3 de la página Choripan del pedido 1, restaurante: LaParri
+[INFO] 14:54:25:2 ComandaLog/(8155:8967): Todos los marcos se encuentran ocupados por lo que se deberá aplicar el algoritmo dado por configuracion
+[INFO] 14:54:25:3 ComandaLog/(8155:8967): Se eliminará una página por LRU
+[DEBUG] 14:54:25:3 ComandaLog/(8155:8967): Se eliminó por LRU el frame donde comenzaba en: 96
+[INFO] 14:54:25:3 ComandaLog/(8155:8967): Se procede a leer en SWAP la página en el frame 2
+[INFO] 14:54:25:4 ComandaLog/(8155:8967): [msync]Se guardaron los cambios de la página TortillaDePapa en SWAP exitosamente
+[INFO] 14:54:25:4 ComandaLog/(8155:8967): El marco a asignar en memoria es el: 3
+[DEBUG] 14:54:25:4 ComandaLog/(8155:8967): Se insertó en memoria el plato: AsadoJugoso en el frame: 3, donde comienza en: 96
+[WARNING] 14:54:25:4 ComandaLog/(8155:8967): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:25:4 ComandaLog/(8155:8967): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:25:5 ComandaLog/(8155:8967): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[WARNING] 14:54:27:966 ComandaLog/(8155:8970): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:27:966 ComandaLog/(8155:8970): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:27:967 ComandaLog/(8155:8970): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:27:967 ComandaLog/(8155:8970): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[INFO] 14:54:27:967 ComandaLog/(8155:8970): Se actualizó la cantidad lista a 4 de la página Choripan del pedido 1, restaurante: LaParri
+[TRACE] 14:54:27:967 ComandaLog/(8155:8970): Se actualizo el estado del pedido 1 a TERMINADO
+[WARNING] 14:54:27:970 ComandaLog/(8155:8971): La página AsadoJugoso del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:27:974 ComandaLog/(8155:8971): La página AsadoSeco del pedido 1 ya se encuentra cargada en memoria
+[WARNING] 14:54:27:974 ComandaLog/(8155:8971): La página Choripan del pedido 1 ya se encuentra cargada en memoria
+[DEBUG] 14:54:27:974 ComandaLog/(8155:8971): Se encuentran cargados en memoria todos los platos del pedido 1, restaurante: LaParri
+[TRACE] 14:54:28:750 ComandaLog/(8155:8972): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante GreenLife
+[TRACE] 14:54:44:758 ComandaLog/(8155:8974): Se eliminaron todas las páginas respecto del pedido con ID: 1, del restaurante LaParri

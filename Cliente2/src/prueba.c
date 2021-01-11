@@ -1,0 +1,7 @@
+/*
+consultarRestaurantes
+seleccionarRestaurante RestauranteDefault
+consultarPlatos
+crearPedido
+
+*/

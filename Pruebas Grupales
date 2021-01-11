@@ -1,0 +1,44 @@
+Sindicato:
+ 
+crearReceta AsadoJugoso [Cortar,Hornear,Servir] [3,3,2]
+crearReceta AsadoSeco [Cortar,Hornear,Servir] [3,10,2]  
+crearReceta Choripan [Cortar,Hornear,Servir] [1,2,1]
+crearReceta WokDeVegetales [Cortar,Condimentar,Servir] [3,1,1]
+crearReceta TortillaDePapa [Cortar,Hervir,Hornear,Servir] [2,2,3,1]
+crearReceta MilaCompleta [Empanar,Hornear,Servir] [5,2,1]
+crearRestaurante LaParri 2 [1,1] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan] [200,200,125] 1
+crearRestaurante GreenLife 1 [9,9] [] [WokDeVegetales,TortillaDePapa] [200,150] 1
+crearRestaurante MilangaPalace 1 [5,5] [] [MilaCompleta] [200] 1
+ 
+ 
+ 
+Cliente 1: 
+ 
+CONSULTAR_RESTAURANTE
+SELECCIONAR_RESTAURANTE MilangaPalace
+CREAR_PEDIDO
+AÑADIR_PLATO MilaCompleta 1
+CONFIRMAR_PEDIDO 1
+ 
+Cliente 2: 
+ 
+CONSULTAR_RESTAURANTE
+SELECCIONAR_RESTAURANTE GreenLife
+CREAR_PEDIDO
+AÑADIR_PLATO WokDeVegetales 1
+AÑADIR_PLATO TortillaDePapa 1
+AÑADIR_PLATO TortillaDePapa 1
+CONFIRMAR_PEDIDO 1
+
+Cliente 3: 
+ 
+CONSULTAR_RESTAURANTE
+SELECCIONAR_RESTAURANTE LaParri
+CREAR_PEDIDO
+AÑADIR_PLATO AsadoJugoso 1
+AÑADIR_PLATO AsadoSeco 1
+AÑADIR_PLATO Choripan 1
+AÑADIR_PLATO Choripan 1
+AÑADIR_PLATO Choripan 1
+AÑADIR_PLATO Choripan 1
+CONFIRMAR_PEDIDO 1

@@ -1,0 +1,29 @@
+Sindicato
+
+crearReceta AsadoJugoso [Cortar,Hornear,Servir] [4,5,2]
+crearReceta AsadoSeco [Cortar,Hornear,Servir] [4,10,2]
+crearReceta Choripan [Cortar,Hornear,Servir] [1,2,1]
+crearReceta TortillaDePapa [Cortar,Hervir,Hornear,Servir] [2,2,3,1]
+crearRestaurante ElParrillon 2 [5,5] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan,TortillaDePapa] [180,200,100,150] 1
+
+
+Cliente
+
+CREAR_PEDIDO
+AÑADIR_PLATO AsadoJugoso 1
+CREAR_PEDIDO
+AÑADIR_PLATO Choripan 2
+AÑADIR_PLATO Choripan 2
+AÑADIR_PLATO Choripan 2
+AÑADIR_PLATO Choripan 2
+AÑADIR_PLATO Choripan 2
+CREAR_PEDIDO
+AÑADIR_PLATO AsadoSeco 3
+AÑADIR_PLATO AsadoSeco 3
+CREAR_PEDIDO
+AÑADIR_PLATO TortillaDePapa 4
+AÑADIR_PLATO TortillaDePapa 4
+CONFIRMAR_PEDIDO 1
+CONFIRMAR_PEDIDO 2
+CONFIRMAR_PEDIDO 3
+CONFIRMAR_PEDIDO 4

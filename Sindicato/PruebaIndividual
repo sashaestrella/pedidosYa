@@ -1,0 +1,11 @@
+crearReceta AsadoConFritas [Cortar,Condimentar,Hornear,Servir] [4,5,5,1]
+crearReceta VacioConEnsalada [Cortar,Empanar,Hornear,Servir] [4,5,3,1]
+crearReceta Bondiolita [Cortar,Hornear,Reposar,Servir] [2,1,3,2]
+crearReceta Choripan [Cortar,Hornear,Servir] [1,2,1]
+crearReceta Molleja [Cortar,Hornear,Servir] [2,2,1]
+crearReceta PizzaALaPiedra [Cortar,Hornear,Servir] [1,2,1]
+crearReceta PapasFritas [Cortar,Freir,Servir] [1,2,1]
+crearReceta Ensalada [Cortar,Condimentar,Servir] [4,2,1]
+crearRestaurante LaParri 2 [5,5] [AsadoConFritas] [AsadoConFritas,VacioConEnsalada,Bondiolita,Choripan] [150,160,120] 1
+
+ 

@@ -1,0 +1,14 @@
+doxygen/doxygen_new_line_after_brief=true
+doxygen/doxygen_use_brief_tag=false
+doxygen/doxygen_use_javadoc_tags=true
+doxygen/doxygen_use_pre_tag=false
+doxygen/doxygen_use_structural_commands=false
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1998657395/CWD/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1998657395/CWD/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1998657395/CWD/value=~/tp-2020-2c-ES-triple-B/Sindicato/Debug
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1998657395/PWD/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1998657395/PWD/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1998657395/PWD/value=~/tp-2020-2c-ES-triple-B/Sindicato/Debug
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1998657395/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1998657395/appendContributed=true

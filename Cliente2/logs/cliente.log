@@ -1,0 +1,187 @@
+[INFO] 13:12:26:70 ClienteLog/(4745:4745): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 13:14:14:108 ClienteLog/(4745:4746): Se envió el mensaje CREAR_PEDIDO
+[INFO] 13:14:14:138 ClienteLog/(4745:4746): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 13:14:49:751 ClienteLog/(4745:4746): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoJugoso
+[INFO] 13:14:49:813 ClienteLog/(4745:4746): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 13:15:29:928 ClienteLog/(4745:4746): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoSeco
+[INFO] 13:15:29:968 ClienteLog/(4745:4746): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 13:17:41:441 ClienteLog/(4745:4746): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 14:08:10:576 ClienteLog/(5272:5272): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 14:08:37:4 ClienteLog/(5272:5273): Se envió el mensaje CREAR_PEDIDO
+[INFO] 14:08:37:31 ClienteLog/(5272:5273): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 14:08:59:431 ClienteLog/(5272:5273): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoJugoso
+[INFO] 14:08:59:488 ClienteLog/(5272:5273): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 14:09:07:339 ClienteLog/(5272:5273): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 14:47:46:376 ClienteLog/(5560:5560): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 14:47:57:807 ClienteLog/(5560:5563): Se envió el mensaje CREAR_PEDIDO
+[INFO] 14:48:00:533 ClienteLog/(5560:5563): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 14:48:53:684 ClienteLog/(5560:5563): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 14:48:56:910 ClienteLog/(5560:5563): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 14:49:18:174 ClienteLog/(5560:5563): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 15:59:05:537 ClienteLog/(5787:5787): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 15:59:14:350 ClienteLog/(5787:5790): Se envió el mensaje CREAR_PEDIDO
+[INFO] 15:59:16:932 ClienteLog/(5787:5790): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 15:59:47:83 ClienteLog/(5787:5790): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 15:59:50:259 ClienteLog/(5787:5790): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 16:00:06:513 ClienteLog/(5787:5790): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 16:02:13:114 ClienteLog/(5923:5923): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 16:02:22:265 ClienteLog/(5923:5935): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 16:02:48:923 ClienteLog/(5923:5935): Se recibió la respuesta del mensaje CONFIRMAR_PEDIDO, respuesta: 0
+[INFO] 16:03:04:978 ClienteLog/(5923:5923): Error
+[INFO] 16:18:41:574 ClienteLog/(6213:6213): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 16:18:46:881 ClienteLog/(6213:6214): Se envió el mensaje CREAR_PEDIDO
+[INFO] 16:18:46:914 ClienteLog/(6213:6214): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 16:18:57:904 ClienteLog/(6213:6214): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 16:18:57:963 ClienteLog/(6213:6214): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 16:19:07:728 ClienteLog/(6213:6214): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 16:24:02:399 ClienteLog/(6485:6485): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 16:24:05:713 ClienteLog/(6485:6486): Se envió el mensaje CREAR_PEDIDO
+[INFO] 16:24:05:743 ClienteLog/(6485:6486): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 16:24:15:496 ClienteLog/(6485:6486): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 16:24:15:558 ClienteLog/(6485:6486): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 16:24:25:855 ClienteLog/(6485:6486): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 16:29:11:162 ClienteLog/(6611:6611): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 16:29:20:763 ClienteLog/(6611:6612): Se envió el mensaje CREAR_PEDIDO
+[INFO] 16:29:20:798 ClienteLog/(6611:6612): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 16:29:45:597 ClienteLog/(6611:6612): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 16:29:45:659 ClienteLog/(6611:6612): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 16:29:53:567 ClienteLog/(6611:6612): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 16:39:47:52 ClienteLog/(7143:7143): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 16:39:54:849 ClienteLog/(7143:7144): Se envió el mensaje CREAR_PEDIDO
+[INFO] 16:39:54:886 ClienteLog/(7143:7144): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 16:40:24:223 ClienteLog/(7143:7144): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 16:40:24:288 ClienteLog/(7143:7144): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 16:40:32:858 ClienteLog/(7143:7144): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 16:55:51:783 ClienteLog/(7539:7539): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 16:55:59:129 ClienteLog/(7539:7540): Se envió el mensaje CREAR_PEDIDO
+[INFO] 16:55:59:168 ClienteLog/(7539:7540): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 16:56:08:476 ClienteLog/(7539:7540): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 16:56:08:547 ClienteLog/(7539:7540): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 16:56:18:524 ClienteLog/(7539:7540): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 17:00:58:375 ClienteLog/(7674:7674): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 17:01:04:503 ClienteLog/(7674:7675): Se envió el mensaje CREAR_PEDIDO
+[INFO] 17:01:04:535 ClienteLog/(7674:7675): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 17:01:13:375 ClienteLog/(7674:7675): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 17:01:13:434 ClienteLog/(7674:7675): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 17:01:21:295 ClienteLog/(7674:7675): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 17:11:05:125 ClienteLog/(7874:7874): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 17:11:17:901 ClienteLog/(7874:7875): Se envió el mensaje CREAR_PEDIDO
+[INFO] 17:11:17:941 ClienteLog/(7874:7875): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 17:11:30:192 ClienteLog/(7874:7875): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 17:11:30:249 ClienteLog/(7874:7875): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 17:12:02:556 ClienteLog/(7874:7875): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 17:26:39:227 ClienteLog/(8070:8070): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 17:26:43:109 ClienteLog/(8070:8071): Se envió el mensaje CREAR_PEDIDO
+[INFO] 17:26:43:140 ClienteLog/(8070:8071): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 17:27:07:81 ClienteLog/(8070:8071): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 17:27:07:150 ClienteLog/(8070:8071): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 17:27:13:811 ClienteLog/(8070:8071): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 17:27:14:940 ClienteLog/(8070:8071): Se recibió la respuesta del mensaje CONFIRMAR_PEDIDO, respuesta: 0
+[INFO] 17:34:28:239 ClienteLog/(8070:8070): Error
+[INFO] 17:37:07:85 ClienteLog/(8145:8145): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 17:37:11:525 ClienteLog/(8145:8146): Se envió el mensaje CREAR_PEDIDO
+[INFO] 17:37:11:558 ClienteLog/(8145:8146): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 17:37:40:909 ClienteLog/(8145:8146): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoJugoso
+[INFO] 17:37:40:977 ClienteLog/(8145:8146): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 17:37:55:443 ClienteLog/(8145:8146): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoSeco
+[INFO] 17:37:55:471 ClienteLog/(8145:8146): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 17:38:31:560 ClienteLog/(8145:8146): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 19:06:36:399 ClienteLog/(8718:8718): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 19:06:40:145 ClienteLog/(8718:8719): Se envió el mensaje CREAR_PEDIDO
+[INFO] 19:06:40:176 ClienteLog/(8718:8719): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 19:07:09:502 ClienteLog/(8724:8724): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 19:07:33:670 ClienteLog/(8724:8725): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoSeco
+[INFO] 19:07:33:727 ClienteLog/(8724:8725): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 19:07:45:658 ClienteLog/(8724:8725): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 19:07:45:677 ClienteLog/(8724:8725): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 19:08:01:90 ClienteLog/(8724:8725): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoJugoso
+[INFO] 19:08:01:113 ClienteLog/(8724:8725): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 19:38:48:463 ClienteLog/(8724:8725): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 19:38:55:786 ClienteLog/(8724:8725): Se recibió la respuesta del mensaje CONFIRMAR_PEDIDO, respuesta: 0
+[INFO] 19:39:06:200 ClienteLog/(8724:8724): Error
+[INFO] 22:19:38:424 ClienteLog/(4333:4333): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 22:19:43:736 ClienteLog/(4333:4334): Se envió el mensaje CREAR_PEDIDO
+[INFO] 22:19:43:779 ClienteLog/(4333:4334): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 22:20:21:594 ClienteLog/(4333:4334): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoSeco
+[INFO] 22:20:21:665 ClienteLog/(4333:4334): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 22:21:11:535 ClienteLog/(4333:4334): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 22:21:11:560 ClienteLog/(4333:4334): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 22:22:03:301 ClienteLog/(4333:4334): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: TortillaDePapa
+[INFO] 22:22:03:328 ClienteLog/(4333:4334): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 23:14:07:54 ClienteLog/(4333:4333): Error
+[INFO] 23:14:08:454 ClienteLog/(4333:4333): Error
+[INFO] 23:47:47:522 ClienteLog/(5257:5257): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 23:47:54:377 ClienteLog/(5257:5258): Se envió el mensaje CREAR_PEDIDO
+[INFO] 23:47:54:410 ClienteLog/(5257:5258): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 23:48:30:485 ClienteLog/(5257:5258): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoJugoso
+[INFO] 23:48:30:589 ClienteLog/(5257:5258): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 23:48:46:292 ClienteLog/(5257:5258): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: AsadoSeco
+[INFO] 23:48:46:331 ClienteLog/(5257:5258): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 23:49:00:4 ClienteLog/(5257:5258): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 23:49:00:22 ClienteLog/(5257:5258): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 23:49:15:200 ClienteLog/(5257:5258): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: TortillaDePapa
+[INFO] 23:49:15:224 ClienteLog/(5257:5258): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 23:50:02:574 ClienteLog/(5257:5258): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 23:50:06:763 ClienteLog/(5257:5258): Se recibió la respuesta del mensaje CONFIRMAR_PEDIDO, respuesta: 0
+[INFO] 23:51:34:631 ClienteLog/(5257:5257): Error
+[INFO] 20:26:53:30 ClienteLog/(4552:4552): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 20:26:57:752 ClienteLog/(4552:4553): Se envió el mensaje CREAR_PEDIDO
+[INFO] 20:26:57:819 ClienteLog/(4552:4553): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 20:27:13:217 ClienteLog/(4552:4553): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 20:27:13:322 ClienteLog/(4552:4553): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 20:27:14:862 ClienteLog/(4552:4552): Error
+[INFO] 20:33:20:611 ClienteLog/(4774:4774): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 20:33:26:23 ClienteLog/(4774:4775): Se envió el mensaje CREAR_PEDIDO
+[INFO] 20:33:26:93 ClienteLog/(4774:4775): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 20:33:35:432 ClienteLog/(4774:4775): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 20:33:35:552 ClienteLog/(4774:4775): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 20:33:37:412 ClienteLog/(4774:4774): Error
+[INFO] 20:40:24:993 ClienteLog/(4968:4968): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 20:40:31:206 ClienteLog/(4968:4969): Se envió el mensaje CREAR_PEDIDO
+[INFO] 20:40:31:277 ClienteLog/(4968:4969): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 20:40:41:808 ClienteLog/(4968:4969): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 20:40:41:920 ClienteLog/(4968:4969): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 20:40:42:684 ClienteLog/(4968:4968): Error
+[INFO] 21:00:21:698 ClienteLog/(5517:5517): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 21:00:25:803 ClienteLog/(5517:5518): Se envió el mensaje CREAR_PEDIDO
+[INFO] 21:00:25:873 ClienteLog/(5517:5518): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 21:00:37:678 ClienteLog/(5517:5518): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 21:00:37:791 ClienteLog/(5517:5518): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 21:00:38:581 ClienteLog/(5517:5517): Error
+[INFO] 21:10:29:698 ClienteLog/(5601:5601): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 21:10:35:265 ClienteLog/(5601:5602): Se envió el mensaje CREAR_PEDIDO
+[INFO] 21:10:35:352 ClienteLog/(5601:5602): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 21:10:54:934 ClienteLog/(5601:5601): Error
+[INFO] 21:12:46:853 ClienteLog/(5664:5664): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 21:12:53:524 ClienteLog/(5664:5665): Se envió el mensaje CREAR_PEDIDO
+[INFO] 21:12:53:604 ClienteLog/(5664:5665): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 21:13:05:302 ClienteLog/(5664:5665): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 21:13:05:432 ClienteLog/(5664:5665): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 21:13:16:338 ClienteLog/(5664:5665): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 21:13:17:582 ClienteLog/(5664:5665): Se recibió la respuesta del mensaje CONFIRMAR_PEDIDO, respuesta: 0
+[INFO] 21:21:27:638 ClienteLog/(5664:5664): Error
+[INFO] 21:21:29:461 ClienteLog/(5863:5863): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 21:21:34:257 ClienteLog/(5863:5864): Se envió el mensaje CREAR_PEDIDO
+[INFO] 21:21:34:341 ClienteLog/(5863:5864): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 21:21:43:152 ClienteLog/(5863:5864): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 21:21:43:287 ClienteLog/(5863:5864): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 21:22:03:909 ClienteLog/(5863:5864): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 21:22:05:148 ClienteLog/(5863:5864): Se recibió la respuesta del mensaje CONFIRMAR_PEDIDO, respuesta: 0
+[INFO] 21:22:31:80 ClienteLog/(5863:5863): Error
+[INFO] 21:30:22:280 ClienteLog/(6081:6081): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 21:30:29:711 ClienteLog/(6081:6082): Se envió el mensaje CREAR_PEDIDO
+[INFO] 21:30:29:808 ClienteLog/(6081:6082): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 21:30:39:55 ClienteLog/(6081:6082): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 21:30:39:208 ClienteLog/(6081:6082): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 21:30:49:449 ClienteLog/(6081:6082): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 21:30:50:749 ClienteLog/(6081:6082): Se recibió la respuesta del mensaje CONFIRMAR_PEDIDO, respuesta: 0
+[INFO] 21:36:30:841 ClienteLog/(6081:6081): Error
+[INFO] 21:54:11:51 ClienteLog/(6970:6970): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 21:54:15:429 ClienteLog/(6970:6971): Se envió el mensaje CREAR_PEDIDO
+[INFO] 21:54:15:504 ClienteLog/(6970:6971): Se recibió la respuesta del mensaje CREAR_PEDIDO, id de pedido: 1
+[INFO] 21:54:24:780 ClienteLog/(6970:6971): Se envió el mensaje ANIADIR_PLATO, id de pedido 1 y nombre plato: Choripan
+[INFO] 21:54:24:922 ClienteLog/(6970:6971): Se recibió la respuesta del mensaje ANIADIR_PLATO, respuesta: 0
+[INFO] 21:54:36:220 ClienteLog/(6978:6978): Me conecté al módulo: 1 [APP=0;RESTAURANTE=1;SINDICATO=2;COMANDA=3]
+[INFO] 21:54:41:450 ClienteLog/(6978:6979): Se envió el mensaje CONFIRMAR_PEDIDO, id de pedido: 1
+[INFO] 21:54:42:714 ClienteLog/(6978:6979): Se recibió la respuesta del mensaje CONFIRMAR_PEDIDO, respuesta: 0
+[INFO] 21:55:28:839 ClienteLog/(6978:6978): Error
